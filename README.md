@@ -1,5 +1,5 @@
-# 🐣 
+# 🧙
 
-I'm a Software Engineering Intern at Cockroach Labs this winter, working on [CockroachDB](https://github.com/cockroachdb/cockroach) with the [KV](https://github.com/cockroachdb/cockroach/projects/57) team. Last fall I interned on the CockroachDB [SQL Experience](https://github.com/orgs/cockroachdb/projects/5) team!
+This fall, I'm working on Product at [Molecula](https://www.molecula.com/) and a Head Teaching Assistant for my degree's Systems Programming course ✨
 
-Previously I also interned with GitHub Education on [GitHub Classroom](http://classroom.github.com/), and with Lyft working on [Spark](https://github.com/apache/spark) on the Data Infrastructure: Compute team. 
+As a software engineering intern, I've tinkered about with [Stripe](https://stripe.com/blog/engineering)'s Edge (Traffic) services, [CockroachDB](https://github.com/cockroachdb/cockroach), [GitHub Classroom](http://classroom.github.com/), and Lyft's fork of [Spark](https://github.com/apache/spark) 🛠️ 
